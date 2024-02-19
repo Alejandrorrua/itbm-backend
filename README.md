@@ -1,2 +1,2 @@
-# itbm-market
-Creación de un API con SpringBoot y Java
+# itbm-backend
+1. Creacion de backend en SpringBoot, Maven, Java, con base de datos PostgreSQL 
